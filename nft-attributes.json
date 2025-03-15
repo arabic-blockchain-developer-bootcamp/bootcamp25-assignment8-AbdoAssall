@@ -1,0 +1,15 @@
+{
+    "name": "Dragon",
+    "description": "Friendly Dragon Creature that enjoys long swims in the ocean.",
+    "image": "https://coral-added-halibut-157.mypinata.cloud/ipfs/bafkreiefffebbkr3xkxcf2sgnru7wdxkapqkiqjhpujnruhuc2guw6sveu",
+    "attributes": [
+        {
+            "trait_type": "Level", 
+            "value": 1
+        }, 
+        {
+            "trait_type": "Color", 
+            "value": "Black"
+        }
+    ]
+}
